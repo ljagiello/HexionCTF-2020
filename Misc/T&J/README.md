@@ -4,7 +4,7 @@
 Can you help Tom catch Jerry?
 
 Author: Idan
-![jerry.pcapng](jerry.pcapng)
+[jerry.pcapng](jerry.pcapng)
 
 ## Solution
 This is very similar challenge to: https://www.rootusers.com/google-ctf-2016-forensic-for2-write-up/
